@@ -1,4 +1,4 @@
-package com.C2C_corejava.assingmenttwo;
+package com.C2C_corejava.assingment2;
 
 public class MainClass {
 	
